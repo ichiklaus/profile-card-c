@@ -52,7 +52,7 @@ body {
   background: url(../images/bg-pattern-top.svg),
     url(../images/bg-pattern-bottom.svg), var(--dark-cyan);
   background-repeat: no-repeat, no-repeat;
-  background-position: top -25rem left -35%, bottom -55rem right -25rem;
+  background-position: top -25rem left -35%, bottom -47rem right -25rem;
   background-size: 60%, 80%;
 }
 
